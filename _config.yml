@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: 尚子杰的博客
+subtitle: '你好'
+description: '我是一个高中生'
+keywords: 随笔
+author: 尚子杰
+language: zh-CN
 timezone: ''
 
 # URL
